@@ -1,5 +1,6 @@
 ---
 date: 11/22/2026
+title: Rage Against a Web
 ---
 ## Summary
 
